@@ -1244,9 +1244,9 @@ export default function Home() {
 
     {/* Bottom bar */}
     <div className="al-footer-bottom">
-      <span>
-        © {new Date().getFullYear()} ALPHAA LIVING. ALL RIGHTS RESERVED.
-      </span>
+    <span>
+  &copy; 2026 ALPHAA LIVING. ALL RIGHTS RESERVED.
+</span>
 
       <div className="al-footer-legal">
         <a href="#contact">Privacy</a>
