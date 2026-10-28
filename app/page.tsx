@@ -23,7 +23,7 @@ export default function Home() {
       <header className="gold-navbar">
         <a href="#home" className="gold-brand" aria-label="ALPHAA LIVING home">
           <Image
-            src="/alphaa-living-logo.png"
+            src="/alphaa-logo.png"
             alt="ALPHAA LIVING"
             width={190}
             height={100}
